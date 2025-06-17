@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RiskYonetim.Domain.props" />
+</Project>

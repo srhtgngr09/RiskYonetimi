@@ -1,0 +1,40 @@
+﻿ @model List<RiskYonetimi.WebUI.ViewModels.RiskAnalizViewModel>
+
+<h2>İl Bazlı Risk Analizi</h2>
+
+@if (TempData["Mesaj"] != null)
+{
+    <div class="alert alert-success">@TempData["Mesaj"]</div>
+}
+
+<form method="post">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>İl</th>
+                <th>Risk Puanı</th>
+                <th>Risk Seviyesi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <input type="text" class="form-control" readonly
+                               asp-for="@Model[i].IlAdi" />
+                        <input type="hidden" asp-for="@Model[i].IlAdi" />
+                    </td>
+                    <td>
+                        <input type="number" class="form-control" asp-for="@Model[i].RiskPuani" />
+                    </td>
+                    <td>
+                        <input type="text" class="form-control" asp-for="@Model[i].RiskSeviyesi" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @* Risk seviyesi belirlendi iş ortağına geri gönderilmesi için servise yönlendirildi *@
+    <button type="submit" class="btn btn-success">Anlaşmalı Şirkete Gönder</button>
+</form>

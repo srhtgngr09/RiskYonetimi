@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56712B4B-2D77-4BE9-8A83-99347BCC9811}|RiskYonetimi.WebUI\\RiskYonetimi.WebUI.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webui\\controllers\\firmaanlasmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56712B4B-2D77-4BE9-8A83-99347BCC9811}|RiskYonetimi.WebUI\\RiskYonetimi.WebUI.csproj|solutionrelative:riskyonetimi.webui\\controllers\\firmaanlasmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webapi\\controller\\riskalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|solutionrelative:riskyonetimi.webapi\\controller\\riskalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webapi\\controller\\firmabilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|solutionrelative:riskyonetimi.webapi\\controller\\firmabilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9B5D57-9570-4E24-93D4-FC041CB752B1}|RiskYonetimi.EF\\RiskYonetimi.EF.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9B5D57-9570-4E24-93D4-FC041CB752B1}|RiskYonetimi.EF\\RiskYonetimi.EF.csproj|solutionrelative:riskyonetimi.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E3A55-5D02-442D-8C5E-6F51B5FD438C}|RiskYonetimi.Domain.Interfaces\\RiskYonetimi.Domain.Interfaces.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.domain.interfaces\\tenant\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E3A55-5D02-442D-8C5E-6F51B5FD438C}|RiskYonetimi.Domain.Interfaces\\RiskYonetimi.Domain.Interfaces.csproj|solutionrelative:riskyonetimi.domain.interfaces\\tenant\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E3A55-5D02-442D-8C5E-6F51B5FD438C}|RiskYonetimi.Domain.Interfaces\\RiskYonetimi.Domain.Interfaces.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.domain.interfaces\\tenant\\itenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E3A55-5D02-442D-8C5E-6F51B5FD438C}|RiskYonetimi.Domain.Interfaces\\RiskYonetimi.Domain.Interfaces.csproj|solutionrelative:riskyonetimi.domain.interfaces\\tenant\\itenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.application\\dto\\firmabilgileridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|solutionrelative:riskyonetimi.application\\dto\\firmabilgileridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.application\\firmabilgialservice\\firmabilgilerialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|solutionrelative:riskyonetimi.application\\firmabilgialservice\\firmabilgilerialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56712B4B-2D77-4BE9-8A83-99347BCC9811}|RiskYonetimi.WebUI\\RiskYonetimi.WebUI.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webui\\views\\firmaanlasma\\ilbazliriskhesabi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56712B4B-2D77-4BE9-8A83-99347BCC9811}|RiskYonetimi.WebUI\\RiskYonetimi.WebUI.csproj|solutionrelative:riskyonetimi.webui\\views\\firmaanlasma\\ilbazliriskhesabi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56712B4B-2D77-4BE9-8A83-99347BCC9811}|RiskYonetimi.WebUI\\RiskYonetimi.WebUI.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webui\\views\\firmaanlasma\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56712B4B-2D77-4BE9-8A83-99347BCC9811}|RiskYonetimi.WebUI\\RiskYonetimi.WebUI.csproj|solutionrelative:riskyonetimi.webui\\views\\firmaanlasma\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.application\\riskgonderservice\\iriskgonderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|solutionrelative:riskyonetimi.application\\riskgonderservice\\iriskgonderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.application\\riskgonderservice\\riskgonderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F282B5A-7EA1-4E41-948E-654806D04440}|RiskYonetimi.Application\\RiskYonetimi.Application.csproj|solutionrelative:riskyonetimi.application\\riskgonderservice\\riskgonderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756B1179-4CA4-4D7C-AF46-5920CF27D61A}|RiskYonetim.Domain\\RiskYonetim.Domain.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetim.domain\\model\\anlasma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756B1179-4CA4-4D7C-AF46-5920CF27D61A}|RiskYonetim.Domain\\RiskYonetim.Domain.csproj|solutionrelative:riskyonetim.domain\\model\\anlasma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|solutionrelative:riskyonetimi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756B1179-4CA4-4D7C-AF46-5920CF27D61A}|RiskYonetim.Domain\\RiskYonetim.Domain.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetim.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756B1179-4CA4-4D7C-AF46-5920CF27D61A}|RiskYonetim.Domain\\RiskYonetim.Domain.csproj|solutionrelative:riskyonetim.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.webapi\\riskyonetimi.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3835F9B0-5C92-40A5-81BA-A20A77C4BF48}|RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj|solutionrelative:riskyonetimi.webapi\\riskyonetimi.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9B5D57-9570-4E24-93D4-FC041CB752B1}|RiskYonetimi.EF\\RiskYonetimi.EF.csproj|c:\\users\\serhat g\u00FCng\u00F6r\\desktop\\\u00F6dev\\riskyonetimi\\riskyonetimi\\riskyonetimi.ef\\migrations\\20250615185217_riskyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9B5D57-9570-4E24-93D4-FC041CB752B1}|RiskYonetimi.EF\\RiskYonetimi.EF.csproj|solutionrelative:riskyonetimi.ef\\migrations\\20250615185217_riskyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Domain.Interfaces\\Tenant\\Tenant.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.Domain.Interfaces\\Tenant\\Tenant.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Domain.Interfaces\\Tenant\\Tenant.cs",
+              "RelativeToolTip": "RiskYonetimi.Domain.Interfaces\\Tenant\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:21:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITenant.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Domain.Interfaces\\Tenant\\ITenant.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.Domain.Interfaces\\Tenant\\ITenant.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Domain.Interfaces\\Tenant\\ITenant.cs",
+              "RelativeToolTip": "RiskYonetimi.Domain.Interfaces\\Tenant\\ITenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:21:52.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirmaBilgileriDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\DTO\\FirmaBilgileriDTO.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.Application\\DTO\\FirmaBilgileriDTO.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\DTO\\FirmaBilgileriDTO.cs",
+              "RelativeToolTip": "RiskYonetimi.Application\\DTO\\FirmaBilgileriDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:57:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RiskAlController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\Controller\\RiskAlController.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebApi\\Controller\\RiskAlController.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\Controller\\RiskAlController.cs",
+              "RelativeToolTip": "RiskYonetimi.WebApi\\Controller\\RiskAlController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:52:07.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirmaAnlasmaController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebUI\\Controllers\\FirmaAnlasmaController.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebUI\\Controllers\\FirmaAnlasmaController.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebUI\\Controllers\\FirmaAnlasmaController.cs",
+              "RelativeToolTip": "RiskYonetimi.WebUI\\Controllers\\FirmaAnlasmaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:48:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IlBazliRiskHesabi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\IlBazliRiskHesabi.cshtml",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\IlBazliRiskHesabi.cshtml",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\IlBazliRiskHesabi.cshtml",
+              "RelativeToolTip": "RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\IlBazliRiskHesabi.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T18:18:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\Index.cshtml",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\Index.cshtml",
+              "RelativeToolTip": "RiskYonetimi.WebUI\\Views\\FirmaAnlasma\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T17:40:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirmaBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\Controller\\FirmaBilgileri.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebApi\\Controller\\FirmaBilgileri.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\Controller\\FirmaBilgileri.cs",
+              "RelativeToolTip": "RiskYonetimi.WebApi\\Controller\\FirmaBilgileri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:26:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirmaBilgileriAlService.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\FirmaBilgiAlService\\FirmaBilgileriAlService.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.Application\\FirmaBilgiAlService\\FirmaBilgileriAlService.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\FirmaBilgiAlService\\FirmaBilgileriAlService.cs",
+              "RelativeToolTip": "RiskYonetimi.Application\\FirmaBilgiAlService\\FirmaBilgileriAlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:36:53.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRiskGonderService.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\RiskGonderService\\IRiskGonderService.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.Application\\RiskGonderService\\IRiskGonderService.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\RiskGonderService\\IRiskGonderService.cs",
+              "RelativeToolTip": "RiskYonetimi.Application\\RiskGonderService\\IRiskGonderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:17:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RiskGonderService.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\RiskGonderService\\RiskGonderService.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.Application\\RiskGonderService\\RiskGonderService.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.Application\\RiskGonderService\\RiskGonderService.cs",
+              "RelativeToolTip": "RiskYonetimi.Application\\RiskGonderService\\RiskGonderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:17:30.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.EF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.EF\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.EF\\AppDbContext.cs",
+              "RelativeToolTip": "RiskYonetimi.EF\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:19:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Anlasma.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetim.Domain\\Model\\Anlasma.cs",
+              "RelativeDocumentMoniker": "RiskYonetim.Domain\\Model\\Anlasma.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetim.Domain\\Model\\Anlasma.cs",
+              "RelativeToolTip": "RiskYonetim.Domain\\Model\\Anlasma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:27:47.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\appsettings.json",
+              "RelativeToolTip": "RiskYonetimi.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T16:09:03.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RiskYonetimi.WebApi",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj",
+              "RelativeDocumentMoniker": "RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj",
+              "RelativeToolTip": "RiskYonetimi.WebApi\\RiskYonetimi.WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T20:54:58.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetim.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "RiskYonetim.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetim.Domain\\Program.cs",
+              "RelativeToolTip": "RiskYonetim.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:12:13.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250615185217_RiskYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.EF\\Migrations\\20250615185217_RiskYonetimi.cs",
+              "RelativeDocumentMoniker": "RiskYonetimi.EF\\Migrations\\20250615185217_RiskYonetimi.cs",
+              "ToolTip": "C:\\Users\\Serhat G\u00FCng\u00F6r\\Desktop\\\u00F6dev\\RiskYonetimi\\RiskYonetimi\\RiskYonetimi.EF\\Migrations\\20250615185217_RiskYonetimi.cs",
+              "RelativeToolTip": "RiskYonetimi.EF\\Migrations\\20250615185217_RiskYonetimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:52:17.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

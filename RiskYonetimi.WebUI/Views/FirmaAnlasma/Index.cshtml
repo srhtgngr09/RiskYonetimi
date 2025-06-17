@@ -1,0 +1,66 @@
+﻿@model List<RiskYonetimi.WebUI.ViewModels.FirmaAnlasmaViewModel>
+
+<h2>Anlaşmalar</h2>
+@* işortağından gelen bilgiler veritabanına eklendikten sonra bu sayfada gösterimi sağlandı.
+ *@
+ <table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Anlaşma Adı</th>
+            <th>Şirket</th>
+            <th>İş Ortağı</th>
+            <th>İller</th>
+            <th>Konular</th>
+            <th>Risk Puanı</th>
+            <th>Açıklama</th>
+            <th>Tarih</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.AnlasmaAdi</td>
+                <td>@item.SirketAdi</td>
+                <td>@item.IsOrtagi</td>
+
+                <!-- İller ComboBox -->
+                <td>
+                    <select class="form-control" disabled>
+                        @foreach (var il in item.IlAdlari)
+                        {
+                            <option>@il</option>
+                        }
+                    </select>
+                </td>
+
+                <!-- Konular ComboBox -->
+                <td>
+                    <select class="form-control" disabled>
+                        @foreach (var konu in item.Konular)
+                        {
+                            <option>@konu</option>
+                        }
+                    </select>
+                </td>
+
+                <td>@item.RiskPuani</td>
+                <td>@item.RiskAciklama</td>
+                <td>@item.Tarih.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="text-right mb-3">@* İl Bazlı Risk Analizi için buton eklendi *@
+    <a asp-controller="RiskAnaliz" asp-action="IlBazli" class="btn btn-primary">
+        İl Bazlı Risk Analizi Yap
+    </a>
+</div>
+<style>
+    select[disabled] {
+        background-color: #f5f5f5;
+        color: #333;
+        border: 1px solid #ccc;
+        pointer-events: none;
+    }
+</style>
