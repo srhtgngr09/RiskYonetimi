@@ -1,6 +1,6 @@
 Projeyi tasarlarken katman yapısını Asp.Net boilerplate frameworkü referans aldım. Projeyi 6 katman halinde tasarladım.Sigorta sektöründe çalıştığım için ana firma ve bağlı acenteler şekinde planladım.Entityleri Migration ile Ms Sql de tutuyorum.Html css ile önyüz gösterimini sağladım.
 Case de verilen adımları acente de basit haliyle süreç nasıl işleyebilir diye düşünerek koda dökmeye çalıştım. 
-cs dosyaları içesinde yazdığım kodlarla ilgili  kısa biligler verdim.
+cs dosyaları içesinde yazdığım kodlarla ilgili  kısa bilgiler verdim.
  - RiskYonetim.Domain katmanında entity sınıflarını tanımladım.
  - RiskYonetimi.Application  katmanında Dto ve servis interfacelerini tanımladım.
  - RiskYonetimi.Domain.Interfaces  Tenant ın interface kodlarını yazmak için kullandım. Tenant id için interface i oluşturuldu. 
